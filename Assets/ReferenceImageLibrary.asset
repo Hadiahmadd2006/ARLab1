@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: Unity.XR.ARSubsystems::UnityEngine.XR.ARSubsystems.XRReferenceImageLibrary
+  m_GuidLow: 5644953035659292956
+  m_GuidHigh: 13023552631509936791
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5715129041838480035
+      m_GuidHigh: 6909907759054711196
+    m_SerializedTextureGuid:
+      m_GuidLow: 8403279477895020388
+      m_GuidHigh: 6197996799237161963
+    m_Size: {x: 14.01, y: 10.48561}
+    m_SpecifySize: 1
+    m_Name: Mars-Shutterstock-scaled
+    m_Texture: {fileID: 2800000, guid: a4433f647229749eeb038a2140b50356, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5559885028005883598
+      m_GuidHigh: 9701719297517192848
+    m_SerializedTextureGuid:
+      m_GuidLow: 6087633543772243743
+      m_GuidHigh: 7405368791179857545
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 1
+    m_Name: GSFC_20171208_Archive_e002131~large
+    m_Texture: {fileID: 2800000, guid: 534c071f9e74547b890e0a25ae27c566, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5404609410709602981
+      m_GuidHigh: 10157959247991013309
+    m_SerializedTextureGuid:
+      m_GuidLow: 9549465571121800941
+      m_GuidHigh: 4634657851233934810
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 1
+    m_Name: images
+    m_Texture: {fileID: 2800000, guid: 7989a6ed84578486da1d469ec29c5140, type: 3}

@@ -13,6 +13,7 @@ MonoBehaviour:
   m_Name: SimulationEnvironmentAssetsManager
   m_EditorClassIdentifier: 
   m_EnvironmentPrefabPaths:
+  - Assets/DefaultSimulationEnvironment 1.prefab
   - Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Backyard/Backyard_45ftx40ft.prefab
   - Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Backyard/Backyard_55ftx40ft.prefab
   - Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Bedroom/Bedroom_12ftx12ft.prefab
@@ -25,6 +26,8 @@ MonoBehaviour:
   - Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Kitchen/Kitchen_13ftx9ft.prefab
   - Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Kitchen/Kitchen_17ftx16ft.prefab
   - Assets/UnityXRContent/ARFoundation/SimulationEnvironments/Kitchen/Kitchen_25ftx16ft.prefab
+  - Assets/UnityXRContent/ARFoundation/SimulationEnvironments/LivingRoom/LivingRoom_17.5ftx16.5ft
+    1.prefab
   - Assets/UnityXRContent/ARFoundation/SimulationEnvironments/LivingRoom/LivingRoom_17.5ftx16.5ft.prefab
   - Assets/UnityXRContent/ARFoundation/SimulationEnvironments/LivingRoom/LivingRoom_18ftx13ft.prefab
   - Assets/UnityXRContent/ARFoundation/SimulationEnvironments/LivingRoom/LivingRoom_20ftx18.5ft.prefab
