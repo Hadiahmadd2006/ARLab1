@@ -558,7 +558,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ARImageTracker
   imageManager: {fileID: 1723835028}
-  imagePrefabs: []
+  imagePrefabs:
+  - imageName: Earth
+    prefab: {fileID: 1496331802184638731, guid: 39ca0716feb154e118d20284d626ef3d, type: 3}
+  - imageName: Neptune
+    prefab: {fileID: 5125852575165551632, guid: 913e79414577c445fab04edb4d03df9a, type: 3}
 --- !u!4 &685538256
 Transform:
   m_ObjectHideFlags: 0
